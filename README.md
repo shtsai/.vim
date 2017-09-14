@@ -17,5 +17,6 @@ git submodule update
 * **[CtrlP](https://github.com/ctrlpvim/ctrlp.vim)**
 * **[NERDTree](https://github.com/scrooloose/nerdtree)**
 * **[Vim-Airline](https://github.com/vim-airline/vim-airline)**
-
+* **[delimitMate](https://github.com/raimondi/delimitmate)**
+* **[vim-fugitive](https://github.com/tpope/vim-fugitive)**
 
